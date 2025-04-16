@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  azureSubscription: 'rpbs-subscription(b3889971-9b7e-4807-a89c-c6f2b3297113)'
+  azureSubscription: 'rpbs-subscription(5be1b5e4-b4d2-4c80-93be-416a8f3ececa)'
   appName: 'library-front' # Replace with your Azure Web App name
   resourceGroupName: 'library-project-rg' # Replace with your resource group
   nodeVersion: '16.x' # Match your React app's Node version
